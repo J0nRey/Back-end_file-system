@@ -1,0 +1,4 @@
+Texto a copiar de file-system/aCopiar.txt
+copiado....
+
+copia el texto de origen y sobre escribe este mismo en el destino
